@@ -1,3 +1,5 @@
+# Adventuin Party
+
 <p>We are already in the middle of the run-up to Christmas, and at this time the penguins of the PGdP are also preparing for Christmas. We therefore call such a penguin Adventuin.</p>
 <h5 id="adventuin">Adventuin</h5>
 <p>An Adventuin has a name (a string), a height in centimeters (integer number), a color (for this there is a class <code>RgbColor</code> already created in the project), a (Christmas) hat and the language that it usually uses to speak. For hat and language we still need separate classes, we will use enums for them:</p>
